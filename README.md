@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bernardovvieira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Bernardo Vivian Vieira
+- 👀 I’m interested in technology
+- 🌱 I’m currently studying Computer Science
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me @bernardovvieira (Instagram)
 
 <!---
