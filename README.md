@@ -3,7 +3,7 @@
 - 🧑🏻‍💻 I’m currently studying Computer Science (5th level)
 - 📡 I’m looking to collaborate on software development projects
 - 👨🏻‍💼 I have a technology company, visit the page at https://bitwise.dev.br/
-- 📫 How to reach me @bernardovvieira (Instagram) or https://www.linkedin.com/in/bernardo-vivian-vieira-028121220/ (LinkedIn)
+- 📫 How to reach me https://www.instagram.com.br/bernardovvieira or https://www.linkedin.com/in/bernardo-vivian-vieira-028121220/
 
 <!---
 bernardovvieira/bernardovvieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
