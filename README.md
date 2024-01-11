@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m Bernardo Vivian Vieira
-- 💾 I’m interested in technology
-- 🧑🏻‍💻 I’m currently studying Computer Science
+- 💾 I'm interested in the wide and amazing world of technology
+- 🧑🏻‍💻 I’m currently studying Computer Science (5th level)
 - 📡 I’m looking to collaborate on software development projects
 - 👨🏻‍💼 I have a technology company, visit the page at https://bitwise.dev.br/
 - 📫 How to reach me @bernardovvieira (Instagram) or https://www.linkedin.com/in/bernardo-vivian-vieira-028121220/ (LinkedIn)
