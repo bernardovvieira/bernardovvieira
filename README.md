@@ -95,7 +95,7 @@
   <a href="mailto:bernardo@bitwise.dev.br">
     <img src="https://img.shields.io/badge/-Email_Profissional-D14836?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/bernardovvieira">
+  <a href="https://www.linkedin.com/in/bernardovivianvieira">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://bitwise.dev.br">
