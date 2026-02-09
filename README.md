@@ -2,7 +2,7 @@
 
 💻 **Founder** of [Bitwise Technologies](https://bitwise.dev.br)  
 🧠 **Junior Solutions Engineer** at [DocQ](https://docq.app)  
-🎓 **Computer Science Student** (UPF)  
+🎓 **Computer Science Graduate** (UPF)  
 🗺️ Soledade, Rio Grande do Sul, Brazil  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/bernardovivianvieira)
@@ -13,14 +13,14 @@
 
 ### 🧩 About Me
 
-I’m a **Computer Science student** at the **University of Passo Fundo (UPF)**, combining a background in **IT infrastructure** and **software development** with hands-on experience in **technical support** and **system administration**.
+I’m a **Computer Science graduate** from the **University of Passo Fundo (UPF)**, combining a background in **IT infrastructure** and **software development** with hands-on experience in **technical support** and **system administration**.
 
-Currently, I work as a **Junior Solutions Engineer** at **[DocQ](https://docq.app)**, providing **technical and operational support** throughout the entire customer journey (from **troubleshooting** and **product demonstrations** to **solution design** and **implementation support**).  
+Currently, I work as a **Junior Solutions Engineer** at **[DocQ](https://docq.app)**, providing **end-to-end technical and operational support** — from **troubleshooting** and **product demonstrations** to **solution design** and **implementation**.  
 
 I collaborate closely with **sales and operations teams** to understand client needs, offer **technical expertise** during meetings and presentations, and **customize demo environments** to showcase product capabilities.  
 I also participate in **technical discussions**, **cost estimation**, and **process optimization**, helping shape cohesive and efficient strategies that align technology and business outcomes.
 
-In parallel, I’m the **founder of [Bitwise Technologies](https://bitwise.dev.br)**, a company focused on **custom software solutions**, **infrastructure management**, and **IT consulting**. We create reliable systems tailored to real business needs.
+In parallel, I’m the **founder of [Bitwise Technologies](https://bitwise.dev.br)**, a company focused on **custom software solutions**, **infrastructure management**, and **IT consulting**, creating reliable systems tailored to real business needs.
 
 ---
 
@@ -42,5 +42,5 @@ In parallel, I’m the **founder of [Bitwise Technologies](https://bitwise.dev.b
 
 ---
 
-> *“Technology is not just about code — it’s about understanding people and creating solutions that make their work easier.”*  
+> *“Programming isn't just about code — it’s about understanding people and creating solutions that make their work easier.”*  
 > — **Bernardo Vivian Vieira**
